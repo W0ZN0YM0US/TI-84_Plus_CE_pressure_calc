@@ -1,2 +1,1 @@
-"#TI-84_Plus_CE_pressure_calc" 
-"# TI-84_Plus_CE_pressure_calc" 
+TI-84 Plus CE Depth Calc is a very simple program to calculate what the pressure will be a given depth underwater
